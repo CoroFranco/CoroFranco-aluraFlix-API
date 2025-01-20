@@ -95,43 +95,30 @@
       "linkImagenVideo": "https://i.ytimg.com/vi/6M5VXKLf4D4/hqdefault.jpg",
       "titulo": "Deep Learning: El futuro de la IA",
       "id": 17
-    }
-  ],
-  "categorias": [
-    {
-      "id": 1,
-      "nombre": "Front End",
-      "color": "#6BD1FF"
     },
     {
-      "id": 2,
-      "nombre": "Back End",
-      "color": "#00C86F"
+      "titulo": "Introducción a Kubernetes",
+      "linkVideo": "https://www.youtube.com/watch?v=PH-2FfFD2PU",
+      "Categoria": "DevOps",
+      "descripcion": "Aprende los conceptos básicos de Kubernetes, una plataforma de orquestación de contenedores utilizada para la gestión de aplicaciones a gran escala.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/PH-2FfFD2PU/hqdefault.jpg",
+      "id": 18
     },
     {
-      "id": 3,
-      "nombre": "Innovacion y Gestion",
-      "color": "#FFBA05"
+      "titulo": "Fundamentos de GraphQL",
+      "linkVideo": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+      "Categoria": "Back End",
+      "descripcion": "Descubre qué es GraphQL, una alternativa a REST para la creación de APIs, y cómo usarlo para obtener y manipular datos de manera eficiente.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/ed8SzALpx1Q/hqdefault.jpg",
+      "id": 19
     },
     {
-      "id": 4,
-      "nombre": "Data Science",
-      "color": "#f87308"
-    },
-    {
-      "id": 5,
-      "nombre": "DevOps",
-      "color": "#FF4560"
-    },
-    {
-      "id": 6,
-      "nombre": "UX/UI",
-      "color": "#9C27B0"
-    },
-    {
-      "id": 7,
-      "nombre": "Mobile",
-      "color": "#4CAF50"
+      "titulo": "Vue.js para principiantes",
+      "linkVideo": "https://www.youtube.com/watch?v=4deVCNJq3bc",
+      "Categoria": "Front End",
+      "descripcion": "Aprende los fundamentos de Vue.js, un framework progresivo de JavaScript que facilita la creación de interfaces de usuario interactivas.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/4deVCNJq3bc/hqdefault.jpg",
+      "id": 20
     }
   ]
 }
