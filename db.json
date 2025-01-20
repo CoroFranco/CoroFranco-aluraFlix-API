@@ -1,100 +1,100 @@
 {
   "videos": [
     {
-      "titulo": "cuando usar let,var y const",
+      "titulo": "Introducción a TypeScript",
       "Categoria": "Front End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
-      "linkVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
-      "descripcion": "In the modern design world, Lorem Ipsum is the industry standard when placing dummy text onto an unfinished page, whether it's a newspaper, magazine, or advertisement. The Latin text was first used in the 16th century, when a printer scrambled a row of type (known as a ",
+      "linkImagenVideo": "https://i.ytimg.com/vi/G4UVJoGFAA0/hqdefault.jpg",
+      "linkVideo": "https://www.youtube.com/watch?v=G4UVJoGFAA0",
+      "descripcion": "Descubre las ventajas de usar TypeScript en tus proyectos de desarrollo web. Este video te guiará a través de los conceptos básicos y cómo empezar a utilizarlo.",
       "id": 1
     },
     {
       "id": 2,
-      "titulo": "que es javascript",
-      "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
-      "linkImagenVideo": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
-      "Categoria": "Front End",
-      "descripcion": ""
+      "titulo": "Python para principiantes",
+      "linkVideo": "https://www.youtube.com/watch?v=chPhlsHoEPo",
+      "linkImagenVideo": "https://i.ytimg.com/vi/chPhlsHoEPo/hqdefault.jpg",
+      "Categoria": "Back End",
+      "descripcion": "Aprende los fundamentos de Python, uno de los lenguajes de programación más populares y versátiles en la actualidad."
     },
     {
-      "titulo": "Que son las softs skills",
-      "linkVideo": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+      "titulo": "Gestión ágil de proyectos con Scrum",
+      "linkVideo": "https://www.youtube.com/watch?v=9TycLR0TqFA",
       "Categoria": "Innovacion y Gestion",
-      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
-      "linkImagenVideo": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB69jh2_4uiilDUzFYKS6IZMQh5Ag",
+      "descripcion": "Descubre cómo Scrum puede ayudarte a gestionar proyectos de manera más eficiente y adaptativa. Este video cubre los principios básicos y roles en Scrum.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/9TycLR0TqFA/hqdefault.jpg",
       "id": 8
     },
     {
-      "titulo": "Spring Framework. ¿Qué es ? ",
-      "linkVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
-      "Categoria": "Back End",
-      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.\n¿Quieres saber más?\n",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685481249/jqbckgtqqpcyqwjwg6au.jpg",
+      "titulo": "Introducción a Docker",
+      "linkVideo": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "Categoria": "DevOps",
+      "descripcion": "Aprende los conceptos básicos de Docker y cómo puede simplificar el desarrollo y despliegue de aplicaciones a través de la containerización.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/3c-iBn73dDE/hqdefault.jpg",
       "id": 9
     },
     {
-      "titulo": "Box Model y Box sizing",
-      "linkVideo": "https://www.youtube.com/watch?v=ts9qfCKamKg&t=5s",
+      "titulo": "CSS Grid Layout",
+      "linkVideo": "https://www.youtube.com/watch?v=jV8B24rSN5o",
       "Categoria": "Front End",
-      "descripcion": "Box Model y Box sizing",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685567216/yc9xhaj1airravb07kdh.jpg",
+      "descripcion": "Domina CSS Grid Layout para crear diseños web complejos y responsivos con facilidad.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/jV8B24rSN5o/hqdefault.jpg",
       "id": 10
     },
     {
-      "titulo": "Empresas que aprenden ",
-      "linkVideo": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "titulo": "Liderazgo en equipos de tecnología",
+      "linkVideo": "https://www.youtube.com/watch?v=MoaZDlSVzKs",
       "Categoria": "Innovacion y Gestion",
-      "descripcion": "**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.\n\nLas organizaciones tienen responsabilidades en el proceso de aprendizaje de sus colaboradores. Una de las formas de actuar en este sentido es potenciar algunas habilidades, como el pensamiento sistémico, el dominio personal, trabajar modelos mentales, construir una visión compartida, aprender en equipo y reconocer los patrones de interacción que dificultan este aprendizaje, además de componentes de tecnologías estimulantes.",
-      "linkImagenVideo": "https://i.ytimg.com/vi/mwNfWRsDDWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9levva-DWisx43Wh-YR3Cr_9WCw",
+      "descripcion": "Aprende estrategias efectivas para liderar equipos en el dinámico mundo de la tecnología. Este video cubre habilidades clave y mejores prácticas.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/MoaZDlSVzKs/hqdefault.jpg",
       "id": 11
     },
     {
-      "titulo": "7 Soft Skills más deseadas por las empresas",
-      "linkVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "titulo": "Inteligencia Emocional en el trabajo",
+      "linkVideo": "https://www.youtube.com/watch?v=8jPQjjsBbIc",
       "Categoria": "Innovacion y Gestion",
-      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.\n\n¿Quieres saber más?\n\nVe nuestros cursos de Innovación y Gestión:\nhttps://www.aluracursos.com/cursos-on...\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685580828/hze70ejhyfzdw74k8tk8.jpg",
+      "descripcion": "Descubre cómo la inteligencia emocional puede mejorar tus relaciones laborales y tu desempeño profesional en el campo de la tecnología.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/8jPQjjsBbIc/hqdefault.jpg",
       "id": 12
     },
     {
-      "titulo": "Simplificando tu código en Java: Conoce los enum ",
-      "linkVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ&t=68s",
+      "titulo": "Patrones de Diseño en Java",
+      "linkVideo": "https://www.youtube.com/watch?v=v9ejT8FO-7I",
       "Categoria": "Back End",
-      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? \nEn este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.\n\n¿Te gustaría aprender Java desde 0 en nuestra plataforma? Da click aqui - https://www.aluracursos.com/formacion...\nConoce más detalles sobre los tipos de datos enum visitando la documentación oficial - https://docs.oracle.com/javase/tutori...",
-      "linkImagenVideo": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPs_pZWDQJClLViVgQYyfBgD8qkw",
+      "descripcion": "Explora los patrones de diseño más comunes en Java y cómo pueden ayudarte a escribir código más limpio y mantenible.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/v9ejT8FO-7I/hqdefault.jpg",
       "id": 13
     },
     {
-      "titulo": "Machine Learning",
-      "linkVideo": "https://www.youtube.com/watch?v=edS0Fhg0xyM",
+      "titulo": "Introducción a TensorFlow",
+      "linkVideo": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
       "Categoria": "Data Science",
-      "descripcion": "Ve nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras\n",
-      "linkImagenVideo": "https://i.ytimg.com/vi/edS0Fhg0xyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjB5ma1pH7Jv8WTb5CJPVHN98LAA",
+      "descripcion": "Comienza tu viaje en el aprendizaje automático con TensorFlow. Este video cubre los conceptos básicos y cómo empezar a construir modelos.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/tPYj3fFJGjk/hqdefault.jpg",
       "id": 14
     },
     {
-      "titulo": "Aprendiendo a utilizar Figma",
-      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
-      "Categoria": "Front End",
-      "descripcion": "\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.\n\n¿Quieres saber más?\n\nEntra a nuestra plataforma, dónde encontrarás variados cursos de tecnología:\nhttps://www.aluracursos.com/\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685820371/g05mariipqt8dttkzxkb.jpg",
+      "titulo": "Diseño de interfaces con Sketch",
+      "linkVideo": "https://www.youtube.com/watch?v=AV2OkzIGykA",
+      "Categoria": "UX/UI",
+      "descripcion": "Aprende a utilizar Sketch para crear interfaces de usuario atractivas y funcionales. Este tutorial cubre las herramientas básicas y técnicas de diseño.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/AV2OkzIGykA/hqdefault.jpg",
       "id": 15
     },
     {
-      "titulo": "Equipo front end",
-      "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
-      "Categoria": "Front End",
-      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
-      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
+      "titulo": "React Native para principiantes",
+      "linkVideo": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+      "Categoria": "Mobile",
+      "descripcion": "Inicia tu camino en el desarrollo de aplicaciones móviles con React Native. Este video cubre la configuración inicial y la creación de tu primera app.",
+      "linkImagenVideo": "https://i.ytimg.com/vi/0-S5a0eXPoc/hqdefault.jpg",
       "id": 16
     },
     {
       "Categoria": "Data Science",
-      "descripcion": "En este video te llevaremos por las mejores técnicas para mejorar tu aprendizaje y retención. Ya sea que estés estudiando",
-      "linkVideo": "https://youtu.be/KSyqCUAr2CU?si=xACWe6LNVqHH0adG",
-      "linkImagenVideo": "https://i.ytimg.com/vi/KSyqCUAr2CU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvH4yObXB7m7x6AiA5D6k27pJWMQ",
-      "titulo": "Técnicas para mejorar tu aprendizaje #AluraMás",
-      "id": 3
+      "descripcion": "Explora cómo el aprendizaje profundo está revolucionando el campo de la inteligencia artificial y sus aplicaciones en el mundo real.",
+      "linkVideo": "https://www.youtube.com/watch?v=6M5VXKLf4D4",
+      "linkImagenVideo": "https://i.ytimg.com/vi/6M5VXKLf4D4/hqdefault.jpg",
+      "titulo": "Deep Learning: El futuro de la IA",
+      "id": 17
     }
   ],
   "categorias": [
@@ -117,6 +117,21 @@
       "id": 4,
       "nombre": "Data Science",
       "color": "#f87308"
+    },
+    {
+      "id": 5,
+      "nombre": "DevOps",
+      "color": "#FF4560"
+    },
+    {
+      "id": 6,
+      "nombre": "UX/UI",
+      "color": "#9C27B0"
+    },
+    {
+      "id": 7,
+      "nombre": "Mobile",
+      "color": "#4CAF50"
     }
   ]
 }
