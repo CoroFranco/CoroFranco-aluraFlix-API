@@ -57,62 +57,6 @@
       "id": 13
     },
     {
-      "titulo": "Arquitectura de Microservicios",
-      "Categoria": "Back End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/microservices.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-microservices",
-      "descripcion": "Diseño y implementación de arquitecturas basadas en microservicios.",
-      "id": 14
-    },
-    {
-      "titulo": "Next.js y Server Side Rendering",
-      "Categoria": "Front End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/nextjs.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-nextjs",
-      "descripcion": "Desarrollo web con Next.js y las ventajas del Server Side Rendering.",
-      "id": 15
-    },
-    {
-      "titulo": "Gestión de Equipos Remotos",
-      "Categoria": "Innovacion y Gestion",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/remote-teams.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-remote-teams",
-      "descripcion": "Estrategias efectivas para liderar y gestionar equipos de trabajo remoto.",
-      "id": 16
-    },
-    {
-      "titulo": "Docker y Contenedores",
-      "Categoria": "DevOps",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/docker.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-docker",
-      "descripcion": "Fundamentos de contenedores y Docker para desarrollo y despliegue.",
-      "id": 17
-    },
-    {
-      "titulo": "Diseño de Sistemas Seguros",
-      "Categoria": "Cybersecurity",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/secure-systems.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-secure-systems",
-      "descripcion": "Principios y prácticas para diseñar sistemas informáticos seguros.",
-      "id": 18
-    },
-    {
-      "titulo": "React Native Avanzado",
-      "Categoria": "Mobile Development",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/react-native.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-react-native",
-      "descripcion": "Desarrollo de aplicaciones móviles avanzadas con React Native.",
-      "id": 19
-    },
-    {
-      "titulo": "Deep Learning y Redes Neuronales",
-      "Categoria": "Data Science",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/deep-learning.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-deep-learning",
-      "descripcion": "Introducción al Deep Learning y arquitecturas de redes neuronales.",
-      "id": 20
-    },
-    {
       "titulo": "Principios de Design Thinking",
       "Categoria": "UX/UI Design",
       "linkImagenVideo": "https://i.ytimg.com/vi/sample/design-thinking.jpg",
