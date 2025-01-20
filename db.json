@@ -1,54 +1,6 @@
 {
   "videos": [
     {
-      "titulo": "cuando usar let,var y const",
-      "Categoria": "Front End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
-      "linkVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
-      "descripcion": "In the modern design world, Lorem Ipsum is the industry standard when placing dummy text onto an unfinished page, whether it's a newspaper, magazine, or advertisement. The Latin text was first used in the 16th century, when a printer scrambled a row of type (known as a ",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "titulo": "que es javascript",
-      "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
-      "linkImagenVideo": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
-      "Categoria": "Front End",
-      "descripcion": "Aprende los fundamentos de JavaScript, el lenguaje de programación más popular para desarrollo web."
-    },
-    {
-      "titulo": "Introducción a TypeScript",
-      "Categoria": "Front End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/typescript.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-typescript",
-      "descripcion": "Descubre TypeScript y cómo mejora el desarrollo en JavaScript con tipos estáticos y características modernas.",
-      "id": 3
-    },
-    {
-      "titulo": "React Hooks Avanzados",
-      "Categoria": "Front End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/react-hooks.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-react-hooks",
-      "descripcion": "Domina los hooks avanzados en React como useCallback, useMemo, y custom hooks.",
-      "id": 4
-    },
-    {
-      "titulo": "Microservicios con Spring Boot",
-      "Categoria": "Back End",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/spring-boot.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-spring-boot",
-      "descripcion": "Aprende a construir arquitecturas de microservicios robustas con Spring Boot y Spring Cloud.",
-      "id": 5
-    },
-    {
-      "titulo": "Machine Learning para Principiantes",
-      "Categoria": "Data Science",
-      "linkImagenVideo": "https://i.ytimg.com/vi/sample/ml-basics.jpg",
-      "linkVideo": "https://www.youtube.com/watch?v=sample-ml",
-      "descripcion": "Introducción práctica al Machine Learning con Python y scikit-learn.",
-      "id": 6
-    },
-    {
       "titulo": "Desarrollo Ágil con Scrum",
       "Categoria": "Innovacion y Gestion",
       "linkImagenVideo": "https://i.ytimg.com/vi/sample/scrum.jpg",
